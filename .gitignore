@@ -1,5 +1,27 @@
-.cache/ 
-__pycache__/ 
-*.pyc 
-.venv/ 
-venv/ 
+
+# Cache e arquivos temporarios
+.cache/
+__pycache__/
+*.pyc
+
+# Ambientes virtuais
+.venv/
+venv/
+
+# Configuracoes locais
+.MUMUNX/
+.VirtualBox/
+*-windows.xml
+
+# Arquivos de sistema
+.DS_Store
+Thumbs.db
+
+# Arquivos compilados
+*.exe
+*.out
+*.o
+build/
+
+# Arquivos temporarios
+*.log
