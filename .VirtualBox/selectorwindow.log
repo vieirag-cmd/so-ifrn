@@ -1,0 +1,21 @@
+00:00:01.840086 VirtualBox GUI VM Selector Window 7.0.4 r154605 win.amd64 (Nov 16 2022 15:33:13) release log
+00:00:01.840088 Log opened 2025-10-08T03:02:00.418327300Z
+00:00:01.840089 Build Type: release
+00:00:01.840091 OS Product: Windows 10
+00:00:01.840092 OS Release: 10.0.19045
+00:00:01.840093 OS Service Pack: 
+00:00:01.853911 DMI Product Name: Aspire A515-54
+00:00:01.857053 DMI Product Version: V1.21
+00:00:01.857066 Firmware type: UEFI
+00:00:01.857406 Secure Boot: VERR_PRIVILEGE_NOT_HELD
+00:00:01.857427 Host RAM: 8013MB (7.8GB) total, 506MB available
+00:00:01.857470 Executable: C:\Program Files\Oracle\VirtualBox\VirtualBox.exe
+00:00:01.857471 Process ID: 15308
+00:00:01.857471 Package type: WINDOWS_64BITS_GENERIC
+00:00:01.857724 Qt version: 5.15.2
+00:00:01.861714 GUI: UIMediumEnumerator: Initial medium-enumeration finished!
+00:00:01.885517 GUI: UIMediumEnumerator: Medium-enumeration started...
+00:00:03.636510 GUI: UIMediumEnumerator: Medium-enumeration finished!
+00:06:39.946646 GUI: UICommon: Handling aboutToQuit request..
+00:06:40.577152 ERROR [COM]: aRC=E_UNEXPECTED (0x8000ffff) aIID={c0447716-ff5a-4795-b57a-ecd5fffa18a4} aComponent={SessionWrap} aText={The session is not locked (session state: Unlocked)}, preserve=false aResultDetail=0
+00:06:40.653275 GUI: UICommon: aboutToQuit request handled!
